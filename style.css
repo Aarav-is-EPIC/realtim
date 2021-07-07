@@ -1,0 +1,17 @@
+canvas{
+    border:10px groove gold;
+    border-radius:20px;
+    box-shadow:7px 7px 10px red;
+    margin-top:300px;
+}
+
+.copy_right_footer{
+    width:100%;
+    position:fixed;
+    bottom:0;
+
+    color:white;
+    background-color:aqua;
+    line-height:3;
+    text-align:center;
+}
